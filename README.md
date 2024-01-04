@@ -1,12 +1,10 @@
 <div style="display: flex; margin-bottom: 20px">
   <div style="flex: 1">
     <!-- Intro -->
-    <h1>Hi! I'm Stephen</h1>
+    <h1>Hi! I'm Stephen 👋</h1>
     <p>He/Him</p>
     <div>
-      <h3>
-        A junior full-stack web developer with a passion for great UX/UI
-      </h3>
+      <h3>A junior full-stack web developer with a passion for great UX/UI</h3>
       <p>
         🔭 I'm currently working on my <strong>portfolio</strong> and an
         <strong>e-commerce site</strong>
@@ -35,7 +33,7 @@
     <p>🔨Portfolio under construction</p>
   </div>
 
-  <div style="flex: 1;">
+  <div style="flex: 1">
     <h2>Languages, Frameworks, and Tools</h2>
     <img
       height="40"
@@ -137,14 +135,14 @@
     <img
       height="180"
       align="center"
-      src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=YB-BigSwan&hide=HTML&langs_count=8&layout=compact&theme=nord&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats"
+      src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=YB-BigSwan&hide=HTML&langs_count=8&layout=compact&theme=nord&border_radius=10&hide_border=true&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats"
       alt="top langs"
     />
     <a href="https://git.io/streak-stats"
       ><img
         height="180"
         align="center"
-        src="https://streak-stats.demolab.com?user=YB-Bigswan&theme=nord"
+        src="https://streak-stats.demolab.com?user=YB-Bigswan&theme=nord&hide_border=true&border_radius=10"
         alt="GitHub Streak"
     /></a>
   </div>
