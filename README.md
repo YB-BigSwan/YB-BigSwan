@@ -1,4 +1,4 @@
-### Hi there 👋
+<h1>Hi! I'm Stephen a [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=566DF7&random=false&width=435&lines=developer;designer)](https://git.io/typing-svg)</h1>
 
 <!--
 **YB-BigSwan/YB-BigSwan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
