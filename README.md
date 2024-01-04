@@ -134,6 +134,7 @@
     </h3>
     <img
       height="180"
+      width="45%"
       align="center"
       src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=YB-BigSwan&hide=HTML&langs_count=8&layout=compact&theme=nord&border_radius=10&hide_border=true&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats"
       alt="top langs"
@@ -141,6 +142,7 @@
     <a href="https://git.io/streak-stats"
       ><img
         height="180"
+        width="45%"
         align="center"
         src="https://streak-stats.demolab.com?user=YB-Bigswan&theme=nord&hide_border=true&border_radius=10"
         alt="GitHub Streak"
