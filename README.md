@@ -1,10 +1,6 @@
 <h1>
   Hi! I'm Stephen a
-  <a href="https://git.io/typing-svg"
-    ><img
-      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=566DF7&random=false&width=435&lines=developer;designer"
-      alt="Typing SVG"
-  /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=4000&pause=1000&color=566DF7&vCenter=true&random=false&width=435&lines=developer;designer" alt="Typing SVG" /></a>
 </h1>
 
 
