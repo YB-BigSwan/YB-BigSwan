@@ -1,20 +1,151 @@
-<h1>
-  Hi! I'm Stephen a
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=4000&pause=1000&color=566DF7&vCenter=true&random=false&width=435&lines=developer;designer" alt="Typing SVG" /></a>
-</h1>
+<div style="display: flex; margin-bottom: 20px">
+  <div style="flex: 1">
+    <!-- Intro -->
+    <h1>Hi! I'm Stephen</h1>
+    <p>He/Him</p>
+    <div>
+      <h3>
+        A junior full-stack web developer with a passion for great UX/UI
+      </h3>
+      <p>
+        🔭 I'm currently working on my <strong>portfolio</strong> and an
+        <strong>e-commerce site</strong>
+      </p>
+      <p>
+        🌱 I'm currently learning
+        <strong>Angular, Docker, PostgreSQL, and Flask</strong>
+      </p>
+      <p>🏆 Latest Achievement: Bridg3 24hack category winner</p>
+    </div>
+  </div>
 
+  <!-- Links -->
+  <div style="flex: 1">
+    <a href="mailto:swanson.stephen.h+GitHub@gmail.com">
+      <img
+        src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red"
+      />
+    </a>
+    <a href="https://www.linkedin.com/in/stephen-swanson-h/" target="_blank">
+      <img
+        src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+        target="_blank"
+      />
+    </a>
+    <p>🔨Portfolio under construction</p>
+  </div>
 
-<!--
-**YB-BigSwan/YB-BigSwan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <div style="flex: 1;">
+    <h2>Languages, Frameworks, and Tools</h2>
+    <img
+      height="40"
+      src="https://www.svgrepo.com/show/452228/html-5.svg"
+      alt="HTML logo"
+    />
+    <img
+      height="40"
+      src="https://www.svgrepo.com/show/452185/css-3.svg"
+      alt="CSS logo"
+    />
+    <img
+      height="40"
+      src="https://www.svgrepo.com/show/374118/tailwind.svg"
+      alt="TailwindCSS logo"
+    />
+    <img
+      height="40"
+      src="https://www.svgrepo.com/show/354048/material-ui.svg"
+      alt="MUI logo"
+    />
+    <img
+      height="40"
+      src="https://www.svgrepo.com/show/353498/bootstrap.svg"
+      alt="Bootstrap logo"
+    />
+    <img
+      height="40"
+      src="https://www.svgrepo.com/show/373705/js-official.svg"
+      alt="JS logo"
+    />
+    <img
+      height="40"
+      src="https://www.svgrepo.com/show/354478/typescript-icon.svg"
+      alt="TS logo"
+    />
+    <img
+      height="40"
+      src="https://www.svgrepo.com/show/452092/react.svg"
+      alt="React logo"
+    />
+    <img
+      height="40"
+      src="https://www.svgrepo.com/show/342062/next-js.svg"
+      alt="Next logo"
+    />
+    <img
+      height="40"
+      src="https://www.svgrepo.com/show/330398/express.svg"
+      alt="ExpressJS logo"
+    />
+    <img
+      height="40"
+      src="https://www.svgrepo.com/show/452075/node-js.svg"
+      alt="NodeJS logo"
+    />
+    <img
+      height="40"
+      src="https://www.svgrepo.com/show/452234/java.svg"
+      alt="Java logo"
+    />
+    <img
+      height="40"
+      src="https://www.svgrepo.com/show/376350/spring.svg"
+      alt="Spring logo"
+    />
+    <img
+      height="40"
+      src="https://www.svgrepo.com/show/374016/python.svg"
+      alt="Python logo"
+    />
+    <img
+      height="40"
+      src="https://www.svgrepo.com/show/355133/mysql.svg"
+      alt="MySQL logo"
+    />
+    <img
+      height="40"
+      src="https://www.svgrepo.com/show/354037/mariadb-icon.svg"
+      alt="MariaDB logo"
+    />
+    <img
+      height="40"
+      src="https://www.svgrepo.com/show/373845/mongo.svg"
+      alt="MongoDB logo"
+    />
+    <img
+      height="40"
+      src="https://www.svgrepo.com/show/452210/git.svg"
+      alt="Git logo"
+    />
+  </div>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <!-- stats -->
+  <div style="flex: 1">
+    <h3>
+      -----------------------------------------------------------------------------
+    </h3>
+    <img
+      height="180"
+      align="center"
+      src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=YB-BigSwan&hide=HTML&langs_count=8&layout=compact&theme=nord&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats"
+      alt="top langs"
+    />
+    <a href="https://git.io/streak-stats"
+      ><img
+        height="180"
+        align="center"
+        src="https://streak-stats.demolab.com?user=YB-Bigswan&theme=nord"
+        alt="GitHub Streak"
+    /></a>
+  </div>
+</div>
