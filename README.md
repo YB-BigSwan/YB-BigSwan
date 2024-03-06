@@ -6,7 +6,7 @@
     <div>
       <h3>A junior full-stack web developer with a passion for great UX/UI</h3>
       <p>
-        🔭 I'm currently working on my <strong>portfolio</strong> and an
+        🔭 I'm currently working on a demo
         <strong>e-commerce site</strong>
       </p>
       <p>
@@ -30,7 +30,9 @@
         target="_blank"
       />
     </a>
-    <p>🔨Portfolio under construction</p>
+    <a href="https://www.swansondev.me/" target="_blank">
+      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
+    </a>
   </div>
 
   <div style="flex: 1">
