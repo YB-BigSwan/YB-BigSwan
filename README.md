@@ -11,7 +11,7 @@
       </p>
       <p>
         🌱 I'm currently learning
-        <strong>Angular, Docker, PostgreSQL, and Django</strong>
+        <strong>Docker, PostgreSQL, and Django</strong>
       </p>
       <p>🏆 Latest Achievement: Bridg3 24hack category winner</p>
     </div>
