@@ -6,14 +6,15 @@
     <div>
       <h3>A junior full-stack web developer with a passion for great UX/UI</h3>
       <p>
-        🔭 I'm currently working on a demo
-        <strong>e-commerce site</strong>
+        🔭 I'm currently working on a
+        <strong>new website for the <a href="https://github.com/osakunta">Satakuntalainen Osakunta</a></strong>
       </p>
       <p>
         🌱 I'm currently learning
-        <strong>Docker, PostgreSQL, and Django</strong>
+        <strong>Directus</strong> for the website project and <strong>C++</strong> for embedded/IoT development
       </p>
       <p>🏆 Latest Achievement: Bridg3 24hack category winner</p>
+      <p></p>
     </div>
   </div>
 
@@ -104,6 +105,26 @@
     />
     <img
       height="40"
+      src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png"
+      alt="C# logo"
+    />
+    <img
+      height="40"
+      src="https://logos-world.net/wp-content/uploads/2022/01/NET-Framework-Logo-700x394.png"
+      alt=".NET logo"
+    />
+    <img
+      height="40"
+      src="https://cdn.worldvectorlogo.com/logos/blazor.svg"
+      alt="Blazor logo"
+    />
+    <img
+      height="40"
+      src="https://cdn.worldvectorlogo.com/logos/c.svg"
+      alt="C++ logo"
+    />
+    <img
+      height="40"
       src="https://www.svgrepo.com/show/374016/python.svg"
       alt="Python logo"
     />
@@ -116,6 +137,11 @@
       height="40"
       src="https://www.svgrepo.com/show/354037/mariadb-icon.svg"
       alt="MariaDB logo"
+    />
+    <img
+      height="40"
+      src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server-1.svg"
+      alt="SQL Server logo"
     />
     <img
       height="40"
