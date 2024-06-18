@@ -11,7 +11,7 @@
       </p>
       <p>
         🌱 I'm currently learning
-        <strong>Directus</strong> for the website project and <strong>C++</strong> for embedded/IoT development
+        <strong>Directus</strong> for the website project and <strong>C/C++</strong> for embedded/IoT development
       </p>
       <p>🏆 Latest Achievement: Bridg3 24hack category winner</p>
       <p></p>
