@@ -11,9 +11,24 @@
       </p>
       <p>
         🌱 I'm currently learning
-        <strong>Directus</strong> for the Satakuntalainen Osakunta website project and <strong>C/C++</strong> for some hobby embedded/IoT projects
+        <strong>
+          <img
+          height="20"
+          src="https://www.svgrepo.com/show/448274/azure.svg"
+          alt="Azure logo"
+          />
+          Azure
+        </strong> and 
+        <img
+          height="20"
+          src="https://global.discourse-cdn.com/flex035/uploads/threejs/optimized/2X/e/e4f86d2200d2d35c30f7b1494e96b9595ebc2751_2_1016x1024.png"
+          alt="Azure logo"
+          />
+        <strong>
+          Three.js
+        </strong> for fun
       </p>
-      <p>🏆 Latest Achievement: Bridg3 24hack category winner</p>
+      <p>🏆 Latest Achievement: Graduate BBA Business IT (Software Development)</p>
       <p></p>
     </div>
   </div>
